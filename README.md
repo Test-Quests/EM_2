@@ -11,7 +11,7 @@ pip install -r requirements.txt
 
 ## Запуск теста:
 ```bash
-python main.py
+python test_api.py
 ```
 
 ## Описание теста:
